@@ -1,8 +1,8 @@
 # SFTP Connection Details
-$sftpHost = "sftp.bltelecoms.net"
+$sftpHost = "<Secret>"
 $sftpPort = 22
-$sftpUsername = "svcsftpLottoStar"
-$sftpPassword = "BMYMD4cDWD9yg9"
+$sftpUsername = "<Secret>"
+$sftpPassword = "<Secret>"
 
 # Local Directory
 $localDirectory = "C:\TempTest"
